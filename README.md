@@ -1,6 +1,6 @@
 # Encode/decode Juniper $9$ secrets
 
-This tool allows you to encode and decode junos "$9$"-secrets (e.g. radius secrets ect. in the config).
+This tool allows you to encode and decode junos "$9$"-secrets (e.g. radius secrets etc. in the config).
 
 Feed it with either plaintext or an encoded string.
 
